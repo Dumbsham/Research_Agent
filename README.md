@@ -219,6 +219,6 @@ MIT — free to use, modify, and build on.
 
 ## Author
 
-Built by **Saksham Sharma** · [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+Built by **Saksham Sharma** · [GitHub](https://github.com/Dumbsham) · [LinkedIn](https://linkedin.com/in/saksham14sharma)
 
 > *If this project helped you, consider giving it a ⭐ — it helps others find it.*
